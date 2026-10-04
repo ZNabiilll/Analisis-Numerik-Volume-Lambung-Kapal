@@ -1,9 +1,5 @@
 # Analisis-Numerik-Volume-Lambung-Kapal
 
-# Volume Lambung Perahu Katamaran (Analisis Numerik)
-
-Tugas mata kuliah **Analisis Numerik**: menghitung volume kedua lambung perahu katamaran dari gambar bergrid (tampak atas dan tampak samping) menggunakan integrasi numerik.
-
 ## Deskripsi Tugas
 
 Gambar perahu katamaran diberi grid putus-putus. Dari gambar tersebut dihitung volume **kedua lambung** dengan ketentuan:
