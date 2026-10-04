@@ -42,7 +42,7 @@ Karena `A(s)` hanya diketahui di titik-titik pengukuran, integral dihitung secar
 
 Simpson 1/3 mensyaratkan jumlah interval genap, sehingga jumlah stasiun dipilih ganjil.
 
-### 4. Memeriksa hasil
+### 4. hasil
 
 - Hasil Simpson dibandingkan dengan trapesium. Jika keduanya berdekatan, hasil hitungan konsisten.
 - Dilakukan uji sensitivitas: pembacaan lebar dan tinggi digeser sedikit untuk melihat seberapa besar pengaruh galat pembacaan visual terhadap volume.
